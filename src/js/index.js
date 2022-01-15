@@ -12,8 +12,6 @@ import cube, {Types as CubeTypes, Faces as CubeFaces, Masks as CubeMasks} from '
 import content, {Types as ContentTypes} from '~js/components/content'
 import reflection from '~js/components/reflection'
 
-import '~css/main.css'
-
 const CONFIG = {
   cameraX: 0,
   cameraY: 0,
