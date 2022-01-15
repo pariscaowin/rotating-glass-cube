@@ -14,7 +14,7 @@ module.exports = {
       '~js': path.resolve(__dirname, 'src/js'),
       '~css': path.resolve(__dirname, 'src/css'),
       '~glsl': path.resolve(__dirname, 'src/glsl'),
-      '~assets': path.resolve(__dirname, 'src/assets'),
+      '~assets': path.resolve(__dirname, 'public/assets'),
     },
   },
   plugins: [
